@@ -1,0 +1,1 @@
+escribirArchivo(fpBitacora, obtenerFechaYHora());
